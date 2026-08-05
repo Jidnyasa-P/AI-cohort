@@ -1,0 +1,16 @@
+Summary of Benefits and Coverage
+Plan: Acme Health Premier
+Effective Date: 01/01/2026
+
+Covered Services:
+- Primary care visits: $20 copay
+- Specialist visits: $40 copay
+- Preventive care: 100% covered
+- Prescription drugs: Tier 1 $10 copay, Tier 2 $30 copay
+
+Out-of-Pocket Maximum:
+- Individual: $3,000
+- Family: $6,000
+
+Notes:
+This document is a summary only. For full coverage details, refer to the plan policy document.

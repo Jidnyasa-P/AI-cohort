@@ -1,0 +1,15 @@
+Enrollment Form (scanned synthetic sample)
+
+Member Name:
+Date of Birth:
+Member ID:
+Address:
+City/State/ZIP:
+Phone Number:
+Email:
+Coverage Start Date:
+Plan Selection:
+Signature:
+Date Signed:
+
+Note: OCR could not be completed in this environment because Tesseract is not installed or not available in PATH. The above field labels are the expected form fields from the scanned enrollment form sample.
